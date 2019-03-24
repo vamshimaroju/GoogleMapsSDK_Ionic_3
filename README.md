@@ -2,7 +2,7 @@
 Google Maps SDK for Ionic Framework 3
 
 
-In order to use Google Maps in ionic app, first we need to generate API key from Google Developer Console. Which you can follow the instructions by following link(https://github.com/ionic-team/ionic-native-google-maps/blob/master/documents/api_key/generate_api_key.md).
+In order to use Google Maps in ionic app, first we need to generate API key from Google Developer Console. Which you can follow the instructions by following link (https://github.com/ionic-team/ionic-native-google-maps/blob/master/documents/api_key/generate_api_key.md).
 
 After generating the API key, now you can install Google Maps SDK for ionic, by following command.
 
